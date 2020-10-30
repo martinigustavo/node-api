@@ -1,0 +1,1 @@
+Simple REST API server implementation built on top of Node.js and Express.js with Mongoose.js for MongoDB integration.
